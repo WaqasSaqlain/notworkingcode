@@ -11,7 +11,7 @@ upper, lower, nums, syms = True, True, True, True
 all = "" 
 
 if upper
-    all += uppercase_letters
+    all += uppercase letters
 if lower:
     all += lowercase_letters
 if nums:
